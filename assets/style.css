@@ -2,3 +2,8 @@ body {
   background-color: rgb(48, 46, 46);
   color: white;
 }
+
+.display-4,
+.lead {
+  color: black;
+}
