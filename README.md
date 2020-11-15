@@ -22,6 +22,8 @@ A responsive, multi-page portfolio made using HTML, CSS, and Bootstrap's CSS/JS 
 
 ## Link to Deployed Site:
 
+![Deployed Site](https://puentebravo.github.io/Adaptive-Portfolio/)
+
 ## Credits:
 
 This project wouldn't be possible without the continued guidance of my Instructors at the Columbia University Coding Bootcamp. Profuse thanks are due to my awesome study group, whose assistance, peer review, and trouble shooting were critical to this project's success. We got this, y'all!
