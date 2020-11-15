@@ -17,7 +17,7 @@ A responsive, multi-page portfolio made using HTML, CSS, and Bootstrap's CSS/JS 
 ![About Me part 1](assets/images/about1.png)
 ![About Me Part 2](assets/images/about2.png)
 ![Portfolio Part 1](assets/images/portfolio1.png)
-![Portfolio Part 2](assets/images/portfolio2)
+![Portfolio Part 2](assets/images/portfolio2.png)
 ![Contact page](assets/images/contact1.png)
 
 ## Link to Deployed Site:
